@@ -48,7 +48,7 @@ public final class PlaybackParameters {
    * @param speed The factor by which playback will be sped up. Must be greater than zero.
    */
   public PlaybackParameters(float speed) {
-    this(speed, /* pitch= */ 1f, /* skipSilence= */ false);
+    this(speed, /* pitch= */ 1f, /* skipSilence= */ 0,false);
   }
 
   /**
@@ -58,7 +58,7 @@ public final class PlaybackParameters {
    * @param pitch The factor by which the audio pitch will be scaled. Must be greater than zero.
    */
   public PlaybackParameters(float speed, float pitch) {
-    this(speed, pitch, /* skipSilence= */ false);
+    this(speed, pitch, /* skipSilence= */0, false);
   }
 
   /**

@@ -66,3 +66,11 @@ extensions/cronet/jniLibs/*
 extensions/cronet/libs/*
 !extensions/cronet/libs/README.md
 
+generated/library-core-debug.jar
+generated/library-core-release.jar
+generated/library-dash-debug.jar
+generated/library-dash-release.jar
+generated/library-hls-debug.jar
+generated/library-hls-release.jar
+generated/library-smoothstreaming-debug.jar
+generated/library-smoothstreaming-release.jar
