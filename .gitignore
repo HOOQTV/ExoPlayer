@@ -84,3 +84,7 @@ generated/library-hls-debug.jar
 generated/library-hls-release.jar
 generated/library-smoothstreaming-debug.jar
 generated/library-smoothstreaming-release.jar
+
+tools/outputs
+tools/temp
+tools/sources
