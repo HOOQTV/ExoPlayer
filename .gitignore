@@ -75,3 +75,12 @@ extensions/cronet/libs/*
 # Cast receiver
 cast_receiver_app/external-js
 cast_receiver_app/bazel-cast_receiver_app
+
+generated/library-core-debug.jar
+generated/library-core-release.jar
+generated/library-dash-debug.jar
+generated/library-dash-release.jar
+generated/library-hls-debug.jar
+generated/library-hls-release.jar
+generated/library-smoothstreaming-debug.jar
+generated/library-smoothstreaming-release.jar
